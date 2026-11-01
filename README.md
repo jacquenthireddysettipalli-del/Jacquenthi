@@ -1,2 +1,0 @@
-# Jacquenthi
-A portfolio website
